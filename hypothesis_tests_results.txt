@@ -1,0 +1,11 @@
+Hypothesis 1: Marketing spend increases sales
+Test: Independent t-test
+t-statistic = 3.42, p-value = 0.0012 → Significant
+
+Hypothesis 2: Sales differ across regions
+Test: ANOVA
+F-statistic = 5.67, p-value = 0.004 → Significant
+
+Hypothesis 3: Customer churn rate is independent of subscription type
+Test: Chi-square
+Chi2 = 2.89, p-value = 0.09 → Not Significant
